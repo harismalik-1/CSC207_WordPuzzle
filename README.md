@@ -42,4 +42,4 @@ The game's accessibility and ethical considerations have been taken into account
 ## Enjoy the Challenge!
 
 We hope you enjoy playing the Word Puzzle Game. Exercise your brain, enhance your word skills, and have fun solving the puzzle. Good luck!
-![Hello](/src/UI.png)
+![Hello](/src/UI2.png)
