@@ -45,7 +45,7 @@ public class WordPuzzleGUI extends JFrame implements GameCompleteListener{
         setLayout(new BorderLayout());
         JLabel instructionsLabel = new JLabel(
                 "<html>Welcome to the Word Puzzle Game!<br/>"
-                        + "The aim is to arrange the words in their original order by swapping tiles.<br/>"
+                        + "The aim is to arrange the words in alphabetical order by swapping tiles.<br/>"
                         + "Select two tiles to swap them. You have a limit of 7 moves to complete the puzzle.<br/>"
                         + "Click 'Solve' after selecting two tiles to swap them. Use 'Reset' to shuffle and restart.</html>");
         instructionsLabel.setHorizontalAlignment(SwingConstants.CENTER);
